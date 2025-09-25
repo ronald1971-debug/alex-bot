@@ -2,3 +2,4 @@ openrouter:
 deepseek:
 gemini:
 huggingface:
+github_pat: "ghp_xxxxxxxxxxxxxxxx"
