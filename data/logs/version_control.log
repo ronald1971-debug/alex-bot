@@ -1,0 +1,21 @@
+2025-09-25 14:18:36.345 | INFO     | __main__:__init__:25 - VersionControl initialized for repo: c:\alex_desktop
+2025-09-25 14:18:36.657 | INFO     | __main__:commit_changes:91 - Committed changes: Test commit
+2025-09-25 14:19:09.319 | ERROR    | __main__:push_to_remote:131 - Git push failed: remote: Repository not found.
+fatal: repository 'https://github.com/ronald1971-debug/alex-bot.git/' not found
+
+2025-09-25 14:19:09.390 | INFO     | __main__:__init__:25 - VersionControl initialized for repo: C:\Users\prive\AppData\Local\Temp\tmppflovcyj
+2025-09-25 14:19:09.443 | INFO     | __main__:_ensure_git_initialized:53 - Initialized new Git repository
+2025-09-25 14:19:09.575 | INFO     | __main__:commit_changes:91 - Committed changes: Test commit
+2025-09-25 14:19:09.595 | INFO     | __main__:__init__:25 - VersionControl initialized for repo: C:\Users\prive\AppData\Local\Temp\tmpvzw1kayb
+2025-09-25 14:19:09.647 | INFO     | __main__:_ensure_git_initialized:53 - Initialized new Git repository
+2025-09-25 14:19:09.657 | INFO     | __main__:__init__:25 - VersionControl initialized for repo: C:\Users\prive\AppData\Local\Temp\tmp96c3_01h
+2025-09-25 14:19:09.719 | INFO     | __main__:_ensure_git_initialized:53 - Initialized new Git repository
+2025-09-25 14:19:09.737 | INFO     | __main__:__init__:25 - VersionControl initialized for repo: C:\Users\prive\AppData\Local\Temp\tmpki83ug1t
+2025-09-25 14:19:09.785 | INFO     | __main__:_ensure_git_initialized:53 - Initialized new Git repository
+2025-09-25 14:19:09.916 | INFO     | __main__:commit_changes:91 - Committed changes: Initial commit
+2025-09-25 14:19:10.048 | INFO     | __main__:commit_changes:91 - Committed changes: No changes commit
+2025-09-25 14:19:10.062 | INFO     | __main__:__init__:25 - VersionControl initialized for repo: C:\Users\prive\AppData\Local\Temp\tmp9zu8w_l5
+2025-09-25 14:19:10.110 | INFO     | __main__:_ensure_git_initialized:53 - Initialized new Git repository
+2025-09-25 14:19:10.143 | ERROR    | __main__:push_to_remote:131 - Git push failed: error: No such remote 'origin'
+
+2025-09-25 15:46:32.224 | INFO     | __main__:__init__:25 - VersionControl initialized for repo: c:\alex_desktop

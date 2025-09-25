@@ -35,4 +35,9 @@ while True:
 commit_changes("Autonomous task update")
 push_to_remote()
     time.sleep(60)
-
+def run_plugins():
+    from plugin_manager import load_plugins
+    plugins = load_plugins()
+    for plugin in plugins:
+        plugin.custom_lint_task("sample code")
+schedule.every().friday.at("04:00").do(run_plugins)
